@@ -1,0 +1,23 @@
+{
+  "projects": {
+    "WordPress latest": {
+      "type": "archive",
+      "url": "http://wordpress.org/latest.tar.gz"
+    },
+    "WordPress trunk": {
+      "type": "svn",
+      "url": "http://core.svn.wordpress.org/trunk/"
+    },
+    "BuddyPress 1.7.1": {
+      "type": "archive",
+      "url": "http://downloads.wordpress.org/plugin/buddypress.1.7.1.zip"
+    },
+    "BuddyPress trunk": {
+      "type": "svn",
+      "url": "http://buddypress.svn.wordpress.org/trunk/"
+    }
+  },
+  "server": {
+    "port" : 8000
+  }
+}
